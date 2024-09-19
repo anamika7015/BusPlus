@@ -129,7 +129,7 @@ class _BusPlusHomePageState extends State<BusPlusHomePage> {
               child: ElevatedButton(
                 onPressed: () {},
                 style: ElevatedButton.styleFrom(backgroundColor: Colors.blue),
-                child: Text('Login'),
+                child: const Text('Login'),
               ),
             ),
             Padding(
@@ -137,7 +137,7 @@ class _BusPlusHomePageState extends State<BusPlusHomePage> {
               child: ElevatedButton(
                 onPressed: () {},
                 style: ElevatedButton.styleFrom(backgroundColor: Colors.green),
-                child: Text('Sign Up'),
+                child: const Text('Sign Up'),
               ),
             ),
           ],
@@ -238,7 +238,7 @@ class _BusPlusHomePageState extends State<BusPlusHomePage> {
                     padding: const EdgeInsets.symmetric(vertical: 16.0),
                     textStyle: const TextStyle(fontSize: 18),
                   ),
-                  child: Text('Find Route'),
+                  child: const Text('Find Route'),
                 ),
               ],
             ),

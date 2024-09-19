@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611191073875",
+    "project_id": "busplus-efce7",
+    "storage_bucket": "busplus-efce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611191073875:android:a94a540c366ee897b4aaa6",
+        "android_client_info": {
+          "package_name": "com.example.busplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAui4VuhYbw4Oeekv-Npo53p25gW71_rDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
