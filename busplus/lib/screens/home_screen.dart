@@ -185,7 +185,7 @@ class _BusPlusHomePageState extends State<BusPlusHomePage> {
                       child: TextField(
                         controller: _fromController,
                         decoration: const InputDecoration(
-                          hintText: 'From: Anand Vihar IBST',
+                          hintText: 'From',
                           border: OutlineInputBorder(),
                         ),
                       ),
@@ -204,7 +204,7 @@ class _BusPlusHomePageState extends State<BusPlusHomePage> {
                       ),
                     ),
                     const SizedBox(width: 8),
-                    const Text('-----------------------------'),
+                    const Text('-------------------------------------------------------'),
                   ],
                 ),
                 const SizedBox(height: 8),
